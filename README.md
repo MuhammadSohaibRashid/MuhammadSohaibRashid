@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-sohaib-rashid)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sohaibofficial25@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563eb?style=flat&logo=vercel&logoColor=white)]([https://your-portfolio-url.vercel.app](https://my-portfolio-eosin-three-77.vercel.app/?_vercel_share=e7OrbFCenunA4lVMeRJaAeF4c4nhA74U)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563eb?style=flat&logo=vercel&logoColor=white)](https://my-portfolio-eosin-three-77.vercel.app/?_vercel_share=e7OrbFCenunA4lVMeRJaAeF4c4nhA74U)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 I'm a **Data Analyst & Software Engineer** based in Karachi, Pakistan with a BSc in Software Engineering from NED University Of Engineering and Technology. I bridge data engineering and full-stack development — building pipelines that feed decisions, not just reports.
 
-- 🏢 Currently at **AALOGICS** — building Odoo solutions for international clients & Local clients.
+- 🏢 Currently at **AALOGICS** — building Odoo solutions for international clients & local clients.
 - 📊 Former **Data Analyst Intern @ Systems Limited** — ETL pipelines, Power BI dashboards, SQL optimisation
 - 🤖 Former **AI Automation Intern @ Irenic Tech** — n8n workflows, AI agents, 40% manual effort reduction
 - 🎓 BSc Software Engineering — NED University Of Engineering & Technology (2021–2025)
