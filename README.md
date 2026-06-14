@@ -7,7 +7,7 @@
 
 **Junior Data Analyst · SQL · Power BI · ETL · Python · Azure**
 
-*Turning raw data into decisions — through scalable pipelines, clear dashboards, and intelligent automation.*
+*Turning raw data into decisions-through scalable pipelines, clear dashboards, and intelligent automation.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-sohaib-rashid)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sohaibofficial25@gmail.com)
