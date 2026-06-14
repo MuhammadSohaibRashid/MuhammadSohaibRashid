@@ -5,13 +5,13 @@
 
 # Muhammad Sohaib Rashid
 
-**Junior Data Analyst · SQL · Power BI · ETL · Python · Azure**
+**Data Analyst & Python Developer · SQL · Power BI · ETL · Python · Azure**
 
 *Turning raw data into decisions-through scalable pipelines, clear dashboards, and intelligent automation.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-sohaib-rashid)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sohaibofficial25@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563eb?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-url.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563eb?style=flat&logo=vercel&logoColor=white)]([https://your-portfolio-url.vercel.app](https://my-portfolio-eosin-three-77.vercel.app/?_vercel_share=e7OrbFCenunA4lVMeRJaAeF4c4nhA74U)
 
 </div>
 
@@ -19,12 +19,12 @@
 
 ## About Me
 
-I'm a **Data Analyst & Software Engineer** based in Karachi, Pakistan with a BSc in Software Engineering from Usman Institute of Technology (NED-affiliated). I bridge data engineering and full-stack development — building pipelines that feed decisions, not just reports.
+I'm a **Data Analyst & Software Engineer** based in Karachi, Pakistan with a BSc in Software Engineering from NED University Of Engineering and Technology. I bridge data engineering and full-stack development — building pipelines that feed decisions, not just reports.
 
-- 🏢 Currently at **AALOGICS** — building Odoo ERP solutions for international clients
+- 🏢 Currently at **AALOGICS** — building Odoo solutions for international clients & Local clients.
 - 📊 Former **Data Analyst Intern @ Systems Limited** — ETL pipelines, Power BI dashboards, SQL optimisation
 - 🤖 Former **AI Automation Intern @ Irenic Tech** — n8n workflows, AI agents, 40% manual effort reduction
-- 🎓 BSc Software Engineering — Usman Institute of Technology, NED (2021–2025)
+- 🎓 BSc Software Engineering — NED University Of Engineering & Technology (2021–2025)
 - 📫 Reach me at **sohaibofficial25@gmail.com**
 
 ---
@@ -65,7 +65,7 @@ I'm a **Data Analyst & Software Engineer** based in Karachi, Pakistan with a BSc
 
 | Project | Stack | Link |
 |---------|-------|------|
-| 🇨🇦 **Junior DA Roles — Canada Market Analysis** | Python · SSIS · SQL Server · Power BI · Selenium | [View →](https://your-portfolio-url.vercel.app) |
+| 🇨🇦 **Junior DA Roles — Canada Market Analysis** | Python · SSIS · SQL Server · Power BI · Selenium | [View →](https://my-portfolio-eosin-three-77.vercel.app/data-analyst-jobs.html) |
 | 🛒 **Maven Super Market Dashboard** | Power BI · DAX · Power Query | [LinkedIn →](https://www.linkedin.com/posts/muhammad-sohaib-rashid_powerbi-dataanalysis-datavisualization-activity-7240383081021362176-VyR_) |
 | ☁️ **End-to-End Azure Data Pipeline** | ADF · Databricks · Synapse · PySpark · Power BI | [LinkedIn →](https://www.linkedin.com/posts/muhammad-sohaib-rashid_dataengineering-azuredataengineer-microsoftazure-ugcPost-7460014645215633409-OjX-) |
 | 🎬 **YouTube Video Optimisation Platform** | Python · Django · React · AWS · LLM | Final Year Project |
