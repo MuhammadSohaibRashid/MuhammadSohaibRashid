@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm a **Data Analyst & Software Engineer** based in Karachi, Pakistan with a BSc in Software Engineering from NED University Of Engineering and Technology. I bridge data engineering and full-stack development — building pipelines that feed decisions, not just reports.
+I'm a **Data Analyst & Software Engineer** based in Karachi, Pakistan with a BSc in Software Engineering from NED University Of Engineering and Technology. I bridge data engineering and full-stack development & building pipelines that feed decisions, not just reports.
 
 - 🏢 Currently at **AALOGICS** — building Odoo solutions for international clients & local clients.
 - 📊 Former **Data Analyst Intern @ Systems Limited** — ETL pipelines, Power BI dashboards, SQL optimisation
