@@ -83,14 +83,17 @@ I'm a **Data Analyst & Software Engineer** based in Karachi, Pakistan with a BSc
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=muhammadsohaibrashid&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsohaibrashid&layout=compact&theme=default&hide_border=true&langs_count=6" />
+<a href="https://github.com/MuhammadSohaibRashid?tab=repositories"><img src="https://img.shields.io/github/repos/MuhammadSohaibRashid?label=Public%20repositories&style=flat&color=2563eb&logo=github&logoColor=white" alt="Public repositories" /></a>
+<a href="https://github.com/MuhammadSohaibRashid?tab=followers"><img src="https://img.shields.io/github/followers/MuhammadSohaibRashid?label=Followers&style=flat&color=0A66C2" alt="GitHub followers" /></a>
+<a href="https://github.com/MuhammadSohaibRashid/ChannelIQ"><img src="https://img.shields.io/github/stars/MuhammadSohaibRashid/ChannelIQ?label=ChannelIQ%20stars&style=flat&color=F5A623" alt="ChannelIQ stars" /></a>
+<a href="https://github.com/MuhammadSohaibRashid/ChannelIQ/commits/main"><img src="https://img.shields.io/github/last-commit/MuhammadSohaibRashid/ChannelIQ?label=Latest%20project%20update&style=flat&color=2E7D32" alt="Latest ChannelIQ update" /></a>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadsohaibrashid&theme=default&hide_border=true)
+<a href="https://github.com/MuhammadSohaibRashid"><img src="https://komarev.com/ghpvc/?username=muhammadsohaibrashid&color=2563eb&style=flat&label=Profile+views" alt="Profile views" /></a>
+<a href="https://github.com/MuhammadSohaibRashid?tab=overview"><img src="https://img.shields.io/badge/Focus-Data%20%26%20AI-6A1B9A?style=flat" alt="Data and AI focus" /></a>
 
 </div>
 
