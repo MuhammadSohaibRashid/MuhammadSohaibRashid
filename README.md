@@ -2,9 +2,9 @@
 
 # Muhammad Sohaib Rashid
 
-**Python Developer · Data & AI · Odoo ERP**
+**Python Developer · Data & AI**
 
-*I build backend systems, data pipelines and AI-powered automation that turn business data into working software.*
+*I build backend systems, data pipelines and LLM-powered automation, and I care about how software runs in production.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-sohaib-rashid)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sohaibofficial25@gmail.com)
@@ -16,13 +16,13 @@
 
 ## About Me
 
-I'm a **Python developer** in Karachi, Pakistan, with a BSc in Software Engineering from NED University of Engineering & Technology. My focus is **data and AI**: backend APIs, data pipelines, LLM-based features and automation, and I currently apply it in **Odoo ERP** projects.
+I'm a **Python developer** in Karachi, Pakistan, with a BSc in Software Engineering from NED University of Engineering & Technology. My focus is **data and AI**: backend APIs, data pipelines, LLM-based features and automation, and learning how real systems are deployed and run in production.
 
-- 🏢 **Associate Software Engineer at AALOGICS**: Python/Odoo development, custom REST APIs, PostgreSQL, version migrations, and integrations for international and local clients
+- 🏢 **Associate Software Engineer at AALOGICS**: Python backend development, custom REST APIs, PostgreSQL, ERP customisation and version migrations, and integrations for international and local clients
 - 🤖 Former **AI Automation Intern @ Irenic Tech**: n8n workflows and AI agents, 40% less manual effort
 - 📊 Former **Data Analyst Intern @ Systems Limited**: ETL pipelines, Power BI dashboards, SQL optimisation
 - 🎓 BSc Software Engineering, NED University (2021–2025). Final-year project: an AI video optimisation platform, where I led a team of five
-- 🎯 **Career goal:** Python / data engineering / AI engineering roles, and a Master's in Data Science or AI in Germany
+- 🎯 **Looking for:** Python, data engineering and AI engineering roles
 
 ---
 
@@ -31,10 +31,10 @@ I'm a **Python developer** in Karachi, Pakistan, with a BSc in Software Engineer
 **Backend & Software Engineering**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **AI & Automation**
@@ -64,22 +64,22 @@ I'm a **Python developer** in Karachi, Pakistan, with a BSc in Software Engineer
 
 | Project | What it is | Stack | Link |
 |---------|------------|-------|------|
-| 🧩 **Odoo ERP solutions** | Custom modules, REST APIs, integrations and version migrations (17 → 18/19) for client projects | Python · Odoo · PostgreSQL | Client work (private) |
 | 🎬 **ChannelIQ** | AI platform that turns long YouTube videos into optimised content and Shorts: LLM-based SEO and analysis reports, noise reduction, YouTube integration. Team of five, I was the lead and backend developer | Python · Django · React · Whisper · LLM · AWS · Firebase | [Repo →](https://github.com/MuhammadSohaibRashid/ChannelIQ) |
 | ☁️ **End-to-end Azure data pipeline** | ADF → Databricks (PySpark) → Synapse → Power BI, with Key Vault, monitoring and alerting | ADF · Databricks · Synapse · PySpark · Power BI | [LinkedIn →](https://www.linkedin.com/posts/muhammad-sohaib-rashid_dataengineering-azuredataengineer-microsoftazure-ugcPost-7460014645215633409-OjX-) |
 | 📈 **Real-time stock market pipeline** | Streaming data pipeline with Kafka on AWS | Kafka · AWS S3 · Glue · Athena · EC2 | [Repo →](https://github.com/MuhammadSohaibRashid/stock-market-kafka-dataengineering) |
 | 🇨🇦 **Canada job market analysis** | Scraping, star-schema data warehouse and dashboards | Python · Selenium · SSIS · SQL Server · Power BI | [Repo →](https://github.com/MuhammadSohaibRashid/ETL-Pipeline-On-Jobs-In-Canada) · [Write-up →](https://my-portfolio-eosin-three-77.vercel.app/data-analyst-jobs.html) |
 | 🌦️ **Weather forecasting for match scheduling** | Machine learning prediction system (course project) | Python · ML | [Repo →](https://github.com/MuhammadSohaibRashid/Weather-Forecasting-For-Match-Scheduling-) |
 | 🛒 **Maven Supermarket dashboard** | Sales analytics dashboard | Power BI · DAX · Power Query | [LinkedIn →](https://www.linkedin.com/posts/muhammad-sohaib-rashid_powerbi-dataanalysis-datavisualization-activity-7240383081021362176-VyR_) |
+| 🧩 **ERP backend work (client projects)** | Custom modules, REST APIs, integrations and version migrations (17 → 18/19) | Python · Odoo · PostgreSQL | Client work (private) |
 
 ---
 
 ## Currently Focusing On
 
-- Production-level Odoo: Docker deployment, staging vs production, CI/CD
-- LLM and agent-based automation, and how it connects to ERP systems
-- Contributing to open-source Odoo modules
-- Learning German
+- LLMs and AI agents: building practical, tool-using automation
+- How software runs in production: Docker, CI/CD, deployment, monitoring and backups
+- Data engineering: pipelines, warehousing and cloud data platforms
+- Open-source contributions
 
 ---
 
